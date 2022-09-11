@@ -1,2 +1,3 @@
-/job-scrapper/extractors/__pycache
+/job-scrapper/extractors/__pycache__
 indeed.test.png
+/job-scrapper/*.csv
